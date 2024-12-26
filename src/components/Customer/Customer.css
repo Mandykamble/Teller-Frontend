@@ -1,0 +1,39 @@
+.customer {
+    padding: 20px;
+  }
+  
+  .customer h1 {
+    color: #333;
+  }
+  
+  .customer-form {
+    margin-bottom: 20px;
+  }
+  
+  .customer-form input {
+    margin-right: 10px;
+    padding: 10px;
+  }
+  
+  .customer-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .customer-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .customer-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .customer-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
